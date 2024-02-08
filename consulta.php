@@ -1,9 +1,9 @@
 <?php
 // Conectar ao banco de dados
-$host = "sql305.infinityfree.com";
-$usuario = "if0_35938479";
-$senha = "EMPRESA10";
-$banco = "if0_35938479_cduspinda";
+$host = "brugodoy.github.io";
+$usuario = "brugodoy";
+$senha = "02bebe05D@";
+$banco = "bdbd";
 
 $conn = new mysqli($host, $usuario, $senha, $banco);
 
