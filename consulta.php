@@ -1,6 +1,6 @@
 <?php
 // Conectar ao banco de dados
-$host = "brugodoy.github.io";
+$host = "brugodoy.github.io/bdbd.sql";
 $usuario = "brugodoy";
 $senha = "02bebe05D@";
 $banco = "bdbd";
