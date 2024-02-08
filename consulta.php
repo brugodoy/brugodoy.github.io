@@ -1,6 +1,6 @@
 <?php
 // Conectar ao banco de dados
-$host = "brugodoy/brugodoy.github.io/main/TESTEBD.csv";
+$host = "brugodoy.github.io/main/TESTEBD.csv";
 $usuario = "brugodoy";
 $senha = "02bebe05D@";
 $banco = "bdbd";
