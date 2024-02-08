@@ -24,6 +24,12 @@ CREATE TABLE imoveis (
     zona VARCHAR(12),
 );
 
+-- amostra
+INSERT INTO imoveis (sigla, titulo, logradouro, numero, bairro, complemento, zona) VALUES
+('NE123456789123', 'rua', 'bicudo leme', '20', 'boa vista', 'sala 1', 'zc1'),
+('NE223456789123', 'rua', 'bicudo leme', '40', 'boa vista', 'sala 3', 'zop'),
+('NE323456789123', 'rua', 'bicudo leme', '60', 'boa vista', 'sala 9', 'zom');
+
 -- Criação da tabela de saida
 CREATE TABLE saida (
     id INT PRIMARY KEY,
